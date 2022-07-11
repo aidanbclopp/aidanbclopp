@@ -1,0 +1,6 @@
+Brand Colors:
+-------------
+//Main
+Dark Primary: #050A30
+Blue Accent: #31B0FF
+Text: #FFFFFF

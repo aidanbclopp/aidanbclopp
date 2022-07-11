@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Atmospheric';
+    src: url('fonts/atmospheric.otf');
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #050A30;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-family: 'Atmospheric', Fallback, sans-serif;
+}
